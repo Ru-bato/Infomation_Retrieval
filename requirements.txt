@@ -1,0 +1,9 @@
+# Python版本: 3.11.7
+flask==2.2.5
+flask-core==2.9.0
+flask-httpauth==4.8.0
+imageio==2.34.0
+numpy==1.26.3
+scipy==1.13.0
+tensorflow==2.16.1
+werkzeug==3.0.1
